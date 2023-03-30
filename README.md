@@ -29,3 +29,5 @@ attendance, assignments, fee and contacts details
 <image  width="200" height="400" src = "https://github.com/P-I-K-U/Progress-Monitoring-System/blob/master/s0.jpeg"> <image  width="200" height="400" src = "https://github.com/P-I-K-U/Progress-Monitoring-System/blob/master/s1.jpeg"> 
 
 <image  width="200" height="400" src = "https://github.com/P-I-K-U/Progress-Monitoring-System/blob/master/s2.jpeg"> <image  width="200" height="400" src = "https://github.com/P-I-K-U/Progress-Monitoring-System/blob/master/s3.jpeg"> 
+
+<image  width="1440" height="500" src = "https://github.com/P-I-K-U/Progress-Monitoring-System/blob/master/fire.png"> 
